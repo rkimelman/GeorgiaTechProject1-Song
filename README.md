@@ -1,2 +1,3 @@
 # GeorgiaTechProject1
-Original song written and performed by me.
+---------------------------------------------------------------------------------------------------------------------------------------
+- Original song written and performed by me.
